@@ -25,17 +25,22 @@ This project analyzes personal spending data and visualizes insights using a das
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-## Dashboard preview
 
-<img width="1918" height="1078" alt="dashboard" src="https://github.com/user-attachments/assets/469b9e1f-138c-4d71-aef8-acd5a7806de6" />
+## 📸 Dashboard Preview
 
-<img width="1918" height="1078" alt="Screenshot 2026-03-22 120826" src="https://github.com/user-attachments/assets/c6426988-29a1-4e9b-a60e-75d75e9cfe4c" />
+### 📊 Dashboard View 1
+![Dashboard](dashboard1.png)
 
-<img width="1918" height="1078" alt="Screenshot 2026-03-22 120944" src="https://github.com/user-attachments/assets/0dbc3a59-7b9c-48d6-acaf-90c286d1f018" />
+### 📊 Dashboard View 2
+![Dashboard](dashboard2.png)
 
-<img width="1917" height="1078" alt="screenshot" src="https://github.com/user-attachments/assets/82da8489-fc99-49de-888e-6fe056fd30f8" />
+### 📊 Dashboard View 3
+![Dashboard](dashboard3.png)
 
+### 📊 Dashboard View 4
+![Dashboard](dashboard4.png)
 
 
 
