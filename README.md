@@ -25,3 +25,7 @@ This project analyzes personal spending data and visualizes insights using a das
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
