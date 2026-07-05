@@ -12,6 +12,7 @@ This project takes raw personal transaction data and turns it into an interactiv
 
 ## 🖼️ Live Demo
 🔗 **[View the live app](https://personal-finance-dashboard-rfqvg9fammxb6kpek43lzh.streamlit.app/)**
+
 ## 📸 Dashboard Preview
 
 ### 📊 Dashboard View 1
