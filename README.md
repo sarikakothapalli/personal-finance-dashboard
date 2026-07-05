@@ -11,8 +11,7 @@ This project takes raw personal transaction data and turns it into an interactiv
 3. **Visualization** — Built an interactive Streamlit dashboard with filters for date range and category.
 
 ## 🖼️ Live Demo
-🔗 **[View the live app](#)** *(deploy on Streamlit Community Cloud — it's free — and add the link here; a clickable dashboard is far more compelling than a code repo alone)*
-
+🔗 **[View the live app](https://personal-finance-dashboard-rfqvg9fammxb6kpek43lzh.streamlit.app/)**
 ## 📸 Dashboard Preview
 
 ### 📊 Dashboard View 1
