@@ -1,32 +1,17 @@
-# personal-finance-dashboard
-A data analytics and machine learning project that analyzes personal spending patterns and visualizes insights using Streamlit.
+# Personal Finance Dashboard
 
-# 💰 Personal Finance Dashboard
+A Python + Streamlit dashboard that analyzes personal spending patterns and visualizes insights.
 
-## 📌 Project Overview
-This project analyzes personal spending data and visualizes insights using a dashboard.
+## 📊 Overview
+This project takes raw personal transaction data and turns it into an interactive dashboard showing spending trends by category, month, and merchant — helping identify saving opportunities.
 
-## 🚀 Features
-- 📊 Spending by category (Pie Chart)
-- 📈 Monthly spending trends
-- 📅 Date filtering
-- 💰 Total spending calculation
-- 🧠 Insights on spending habits
-- 🤖 Clustering using KMeans
+## 🧱 Approach
+1. **Data Cleaning** — Parsed and categorized raw transaction data (bank statements/CSV exports) using Python (pandas).
+2. **Analysis** — Computed spending trends across categories, months, and recurring expenses.
+3. **Visualization** — Built an interactive Streamlit dashboard with filters for date range and category.
 
-## 🛠️ Tech Stack
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
-- Plotly
-
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
+## 🖼️ Live Demo
+🔗 **[View the live app](#)** *(deploy on Streamlit Community Cloud — it's free — and add the link here; a clickable dashboard is far more compelling than a code repo alone)*
 
 ## 📸 Dashboard Preview
 
@@ -43,4 +28,25 @@ streamlit run app.py
 ![Dashboard](dashboard4.png)
 
 
+## 🛠️ Tech Stack
+Python · pandas · Streamlit · Plotly/Matplotlib
 
+## 📁 Structure
+```
+personal-finance-dashboard/
+├── data/               # sample/anonymized transaction data
+├── app.py              # Streamlit app
+├── analysis/          # exploratory analysis
+├── images/             # dashboard screenshots
+└── README.md
+```
+
+## 🚀 How to Run
+```bash
+git clone https://github.com/sarikakothapalli/personal-finance-dashboard.git
+cd personal-finance-dashboard
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
